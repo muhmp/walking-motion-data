@@ -42,3 +42,43 @@ steps, and type of movement.
   <p align="center">
    Fig 1: Motive software interface
   </p>
+  We also used Motive software as a optical motion capture software supported by Optitrack system for editing, rendering and exporting motion data files. Motive is a software platform designed to control motion capture systems for various tracking applications.It also provides interfaces for both capturing and processing of 3D data. The captured data can be both recorded or live-streamed to other pipelines.
+
+
+
+
+## Motion Data
+Motion data is a digital human animation data results from motion capture that has been processed and exported to be used in research. The following file of motion data used in this research project is .bvh file forrmat. We process motion data to Visual studio software to implement transition by using motion transition method.
+
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/22293987/148558419-b3e2acd8-3d9b-4f24-97e1-71adce302e60.png">
+  </p>
+  <p align="center">
+   Fig 2: Example of motion data
+  </p>
+## Motion Transition
+Transitions is a standard method which combine motions sequences to create a new sequences while changing into another motion. Transition used as an important role to increase responsiveness of character in interactive applications.
+
+<p align="center">
+  <img width="400" height="200" src="https://user-images.githubusercontent.com/22293987/148559938-588a4c71-7f1a-45df-b917-f2d6eb4a0f8a.png">
+  </p>
+  <p align="center">
+   Fig 3: Motion transition example
+  </p>
+  
+## Motion Movement
+The following list of motions movements that will be used in the following research are described on the list below
+Movement	Total
+- Standing pose motion: 1
+- Walking motion: 1
+- Normal Walk: 1
+- Running motion: 1
+- Slow motion: 1
+- Turning Right: 8
+- Turning Left: 8
+- Side-step holonomic right: 	4
+- Side-step holonomic left: 4
+- Side-step nonholonomic right: 	4
+- Side-step nonholonomic left: 	4
+- Walking back motion: 	1
+-	Total: 37
