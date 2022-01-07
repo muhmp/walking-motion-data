@@ -1,4 +1,4 @@
-# Collecting sets of motion data of character animation using Optitrack motion capture system
+# Collecting Sets of Motion Data of Character Animation using Optitrack Motion Capture System
 
 
 ## Introduction
