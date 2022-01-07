@@ -1,7 +1,5 @@
 # Collecting sets of motion data of character animation using Optitrack motion capture system
-Producing motion data using motion capture. The results of the
-motion data can be used in the future to be Implemented together
-with an algorithm of animation techniques.
+
 
 ## Introduction
 
