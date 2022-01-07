@@ -1,4 +1,4 @@
-# Collecting motion data with motion transition implementation
+# Motion data collection
 
 ## Introduction
 
@@ -34,7 +34,6 @@ provider to make a 3D model human interactive
 movement. In the process of recording motion, we
 measure orientation, ground plane, number of
 steps, and type of movement.
-![Picture1]
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/22293987/148554310-ac4807eb-908d-4153-a893-a6c81f208c86.png">
@@ -56,15 +55,8 @@ Motion data is a digital human animation data results from motion capture that h
   <p align="center">
    Fig 2: Example of motion data
   </p>
-## Motion Transition
-Transitions is a standard method which combine motions sequences to create a new sequences while changing into another motion. Transition used as an important role to increase responsiveness of character in interactive applications.
+  
 
-<p align="center">
-  <img width="400" height="200" src="https://user-images.githubusercontent.com/22293987/148559938-588a4c71-7f1a-45df-b917-f2d6eb4a0f8a.png">
-  </p>
-  <p align="center">
-   Fig 3: Motion transition example
-  </p>
   
 ## Motion Movement
 The following list of motions movements that will be used in the following research are described on the list below
