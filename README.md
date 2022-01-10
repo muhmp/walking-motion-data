@@ -37,7 +37,7 @@ measure orientation, ground plane, number of
 steps, and type of movement.
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/22293987/148554310-ac4807eb-908d-4153-a893-a6c81f208c86.png">
+  <img width="460" height="250" src="https://user-images.githubusercontent.com/22293987/148554310-ac4807eb-908d-4153-a893-a6c81f208c86.png">
   </p>
   <p align="center">
    Fig 1: Motive software interface
@@ -51,7 +51,7 @@ steps, and type of movement.
 Motion data is a digital human animation data results from motion capture that has been processed and exported to be used in research. The following file of motion data used in this research project is .bvh file forrmat. We process motion data to Visual studio software to implement transition by using motion transition method.
 
 <p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/22293987/148558419-b3e2acd8-3d9b-4f24-97e1-71adce302e60.png">
+  <img width="300" height="290" src="https://user-images.githubusercontent.com/22293987/148558419-b3e2acd8-3d9b-4f24-97e1-71adce302e60.png">
   </p>
   <p align="center">
    Fig 2: Example of motion data
